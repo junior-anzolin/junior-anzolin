@@ -6,7 +6,9 @@
 
 Gosto de aprender construindo, explorar novas tecnologias e evoluir sistemas existentes com soluções práticas e sustentáveis.
 
-🌐 [Portfólio](https://anzolin.dev.br){:target="_blank"} · 💼 [LinkedIn](https://www.linkedin.com/in/eloi-anzolin-filho/){:target="_blank"} · ✍️ [Medium](https://medium.com/@junior-anzolin){:target="_blank"}
+<a href="https://anzolin.dev.br" target="_blank" rel="noopener noreferrer">🌐 Portfólio</a> ·
+<a href="https://www.linkedin.com/in/eloi-anzolin-filho/" target="_blank" rel="noopener noreferrer">💼 LinkedIn</a> ·
+<a href="https://medium.com/@junior-anzolin" target="_blank" rel="noopener noreferrer">✍️ Medium</a>
 
 ---
 
@@ -19,20 +21,11 @@ Gosto de aprender construindo, explorar novas tecnologias e evoluir sistemas exi
 
 ## 🛠️ Stack
 
-**Languages & Runtime**  
-TypeScript · JavaScript · Node.js
-
-**Frontend**  
-Angular · React · React Native · Flutter
-
-**Backend**  
-NestJS · Express · REST APIs · Microservices
-
-**Data**  
-PostgreSQL · MySQL · MongoDB · Redis
-
-**Cloud & Infrastructure**  
-AWS · Docker · Kubernetes · GitHub Actions
+**Languages & Runtime:** TypeScript · JavaScript · Node.js  
+**Frontend:** Angular · React · React Native · Flutter  
+**Backend:** NestJS · Express · REST APIs · Microservices  
+**Data:** PostgreSQL · MySQL · MongoDB · Redis  
+**Cloud & Infrastructure:** AWS · Docker · Kubernetes · GitHub Actions
 
 ## 🔬 Atualmente explorando
 
@@ -40,19 +33,19 @@ Arquitetura de software · Sistemas distribuídos · Cloud & Serverless · Devel
 
 ## 🚀 Projetos em destaque
 
-- **[API Bancária — REST & AWS](https://github.com/junior-anzolin/desafio-dev-api-rest){:target="_blank"}**
-- **[Estrutura de Permissões — Angular & NestJS](https://github.com/junior-anzolin/permissions-structure){:target="_blank"}**
-- **[Desafio Frontend — Wealth Systems/TOTVS](https://github.com/junior-anzolin/ws-frontend-challenge){:target="_blank"}**
-- **[Flutter Piloto Drinks](https://github.com/junior-anzolin/flutter-piloto-drinks){:target="_blank"}**
+- <a href="https://github.com/junior-anzolin/desafio-dev-api-rest" target="_blank" rel="noopener noreferrer">API Bancária — REST & AWS</a>
+- <a href="https://github.com/junior-anzolin/permissions-structure" target="_blank" rel="noopener noreferrer">Estrutura de Permissões — Angular & NestJS</a>
+- <a href="https://github.com/junior-anzolin/ws-frontend-challenge" target="_blank" rel="noopener noreferrer">Desafio Frontend — Wealth Systems/TOTVS</a>
+- <a href="https://github.com/junior-anzolin/flutter-piloto-drinks" target="_blank" rel="noopener noreferrer">Flutter Piloto Drinks</a>
 
-**[→ Mais projetos e cases em anzolin.dev.br](https://anzolin.dev.br){:target="_blank"}**
+<a href="https://anzolin.dev.br" target="_blank" rel="noopener noreferrer">→ Mais projetos e cases em anzolin.dev.br</a>
 
 ---
 
 <details>
 <summary>🇺🇸 English version</summary>
 
-# Eloi Anzolin Filho
+## Eloi Anzolin Filho
 
 **Software Engineer · Full Stack · Architecture · Technical Leadership**
 
@@ -60,43 +53,36 @@ Arquitetura de software · Sistemas distribuídos · Cloud & Serverless · Devel
 
 I enjoy learning by building, exploring new technologies and evolving existing systems with practical and sustainable solutions.
 
-🌐 [Portfolio](https://anzolin.dev.br){:target="_blank"} · 💼 [LinkedIn](https://www.linkedin.com/in/eloi-anzolin-filho/){:target="_blank"} · ✍️ [Medium](https://medium.com/@junior-anzolin){:target="_blank"}
+<a href="https://anzolin.dev.br" target="_blank" rel="noopener noreferrer">🌐 Portfolio</a> ·
+<a href="https://www.linkedin.com/in/eloi-anzolin-filho/" target="_blank" rel="noopener noreferrer">💼 LinkedIn</a> ·
+<a href="https://medium.com/@junior-anzolin" target="_blank" rel="noopener noreferrer">✍️ Medium</a>
 
-## 🧠 How I work
+### 🧠 How I work
 
-- 🏗️ I value simple and sustainable solutions
-- 🔄 I value continuous system evolution and refactoring
-- ⚖️ I consider context and trade-offs in technical decisions
-- 🤝 I enjoy sharing knowledge and increasing team autonomy
+- 🏗️ Simple and sustainable solutions
+- 🔄 Continuous evolution and refactoring
+- ⚖️ Context and trade-offs in technical decisions
+- 🤝 Knowledge sharing and team autonomy
 
-## 🛠️ Stack
+### 🛠️ Stack
 
-**Languages & Runtime**  
-TypeScript · JavaScript · Node.js
+**Languages & Runtime:** TypeScript · JavaScript · Node.js  
+**Frontend:** Angular · React · React Native · Flutter  
+**Backend:** NestJS · Express · REST APIs · Microservices  
+**Data:** PostgreSQL · MySQL · MongoDB · Redis  
+**Cloud & Infrastructure:** AWS · Docker · Kubernetes · GitHub Actions
 
-**Frontend**  
-Angular · React · React Native · Flutter
-
-**Backend**  
-NestJS · Express · REST APIs · Microservices
-
-**Data**  
-PostgreSQL · MySQL · MongoDB · Redis
-
-**Cloud & Infrastructure**  
-AWS · Docker · Kubernetes · GitHub Actions
-
-## 🔬 Currently exploring
+### 🔬 Currently exploring
 
 Software architecture · Distributed systems · Cloud & Serverless · Developer Tooling · AI-assisted development · Performance · Technical Leadership
 
-## 🚀 Selected projects
+### 🚀 Selected projects
 
-- **[Banking API — REST & AWS](https://github.com/junior-anzolin/desafio-dev-api-rest){:target="_blank"}**
-- **[Permissions Structure — Angular & NestJS](https://github.com/junior-anzolin/permissions-structure){:target="_blank"}**
-- **[Frontend Challenge — Wealth Systems/TOTVS](https://github.com/junior-anzolin/ws-frontend-challenge){:target="_blank"}**
-- **[Flutter Piloto Drinks](https://github.com/junior-anzolin/flutter-piloto-drinks){:target="_blank"}**
+- <a href="https://github.com/junior-anzolin/desafio-dev-api-rest" target="_blank" rel="noopener noreferrer">Banking API — REST & AWS</a>
+- <a href="https://github.com/junior-anzolin/permissions-structure" target="_blank" rel="noopener noreferrer">Permissions Structure — Angular & NestJS</a>
+- <a href="https://github.com/junior-anzolin/ws-frontend-challenge" target="_blank" rel="noopener noreferrer">Frontend Challenge — Wealth Systems/TOTVS</a>
+- <a href="https://github.com/junior-anzolin/flutter-piloto-drinks" target="_blank" rel="noopener noreferrer">Flutter Piloto Drinks</a>
 
-**[→ More projects and case studies at anzolin.dev.br](https://anzolin.dev.br){:target="_blank"}**
+<a href="https://anzolin.dev.br" target="_blank" rel="noopener noreferrer">→ More projects and case studies</a>
 
 </details>
